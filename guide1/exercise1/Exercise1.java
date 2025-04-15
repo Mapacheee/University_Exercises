@@ -1,4 +1,4 @@
-public class Main {
+public class Exercise1 {
 
     static class Flight {
         private int flightNumber;

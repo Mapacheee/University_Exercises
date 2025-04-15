@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Main {
+public class Exercise2 {
 
     static class Project {
         private String projectName;
